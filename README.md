@@ -21,5 +21,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2931FC&height=120&section=footer"/>
 
-![Snake animation](https://github.com/joaomarrcondes/joaomarrcondes/blob/output/github-contribution-grid-snake.svg)
-
